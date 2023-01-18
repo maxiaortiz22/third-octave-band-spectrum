@@ -1,0 +1,9 @@
+setup.py
+spectrum_wrapper.i
+code/kiss_fft.c
+code/kiss_fftr.c
+code/spectrum.c
+spectrum.egg-info/PKG-INFO
+spectrum.egg-info/SOURCES.txt
+spectrum.egg-info/dependency_links.txt
+spectrum.egg-info/top_level.txt
